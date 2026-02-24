@@ -1,2 +1,2 @@
-# Fun
-Python turtle
+# README
+Python turtle fun
